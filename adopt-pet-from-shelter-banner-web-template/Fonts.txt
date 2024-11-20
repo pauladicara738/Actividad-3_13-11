@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Nunito
+Author: Vernon Adams
+Url: http://www.fontsquirrel.com/fonts/nunito
+
+Font: Fredoka
+Author: Milena B Design
+Url: https://www.fontsquirrel.com/fonts/fredoka

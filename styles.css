@@ -121,3 +121,9 @@ td {
 .green-box {
     background-color: lightseagreen;
 }
+/*Galería de fotos*/
+```css
+.contenedorflex {
+  display: flex; / Activa el modelo Flexbox /
+}
+```
